@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.hyperledger.fabric</groupId>
     <artifactId>fabric</artifactId>
-    <packaging>jar</packaging>
+    <packaging>tar.gz</packaging>
     <version>1.0.0-alpha2</version>
     <name>fabric</name>
     <description>Fabric for Hyperledger fabric project</description>
